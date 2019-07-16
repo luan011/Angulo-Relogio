@@ -27,4 +27,4 @@ public long retornaAnguloRelogio(GregorianCalendar horario);
 
 
 # Dúvidas:
-Não consegui repetir os valores da premissa 1, fiz os cálculos de ângulo através de fórmulas de como se calcula o ângulo agudo. Não vi muitas vantagens em usar a biblioteca GregorianCalendar, então fiz da maneira mais simples que achei correto.
+Não consegui repetir os valores da premissa 1, fiz os cálculos de ângulo através de fórmulas de como se calcula o ângulo agudo. Não vi muitas vantagens em usar a biblioteca GregorianCalendar, então fiz da maneira mais simples e que achei correto.
